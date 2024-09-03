@@ -1,0 +1,14 @@
+C:\Users\zombi\source\repos\PE_HelloWorld_JRB\bin\Debug\net8.0\PE_HelloWorld_JRB.exe
+C:\Users\zombi\source\repos\PE_HelloWorld_JRB\bin\Debug\net8.0\PE_HelloWorld_JRB.deps.json
+C:\Users\zombi\source\repos\PE_HelloWorld_JRB\bin\Debug\net8.0\PE_HelloWorld_JRB.runtimeconfig.json
+C:\Users\zombi\source\repos\PE_HelloWorld_JRB\bin\Debug\net8.0\PE_HelloWorld_JRB.dll
+C:\Users\zombi\source\repos\PE_HelloWorld_JRB\bin\Debug\net8.0\PE_HelloWorld_JRB.pdb
+C:\Users\zombi\source\repos\PE_HelloWorld_JRB\obj\Debug\net8.0\PE_HelloWorld_JRB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\source\repos\PE_HelloWorld_JRB\obj\Debug\net8.0\PE_HelloWorld_JRB.AssemblyInfoInputs.cache
+C:\Users\zombi\source\repos\PE_HelloWorld_JRB\obj\Debug\net8.0\PE_HelloWorld_JRB.AssemblyInfo.cs
+C:\Users\zombi\source\repos\PE_HelloWorld_JRB\obj\Debug\net8.0\PE_HelloWorld_JRB.csproj.CoreCompileInputs.cache
+C:\Users\zombi\source\repos\PE_HelloWorld_JRB\obj\Debug\net8.0\PE_HelloWorld_JRB.dll
+C:\Users\zombi\source\repos\PE_HelloWorld_JRB\obj\Debug\net8.0\refint\PE_HelloWorld_JRB.dll
+C:\Users\zombi\source\repos\PE_HelloWorld_JRB\obj\Debug\net8.0\PE_HelloWorld_JRB.pdb
+C:\Users\zombi\source\repos\PE_HelloWorld_JRB\obj\Debug\net8.0\PE_HelloWorld_JRB.genruntimeconfig.cache
+C:\Users\zombi\source\repos\PE_HelloWorld_JRB\obj\Debug\net8.0\ref\PE_HelloWorld_JRB.dll
