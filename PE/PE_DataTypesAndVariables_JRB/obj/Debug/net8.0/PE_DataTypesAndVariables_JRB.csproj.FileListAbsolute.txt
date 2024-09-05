@@ -1,0 +1,15 @@
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_DataTypesAndVariables_JRB\bin\Debug\net8.0\PE_DataTypesAndVariables_JRB.exe
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_DataTypesAndVariables_JRB\bin\Debug\net8.0\PE_DataTypesAndVariables_JRB.deps.json
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_DataTypesAndVariables_JRB\bin\Debug\net8.0\PE_DataTypesAndVariables_JRB.runtimeconfig.json
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_DataTypesAndVariables_JRB\bin\Debug\net8.0\PE_DataTypesAndVariables_JRB.dll
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_DataTypesAndVariables_JRB\bin\Debug\net8.0\PE_DataTypesAndVariables_JRB.pdb
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_DataTypesAndVariables_JRB\obj\Debug\net8.0\PE_DataTypesAndVariables_JRB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_DataTypesAndVariables_JRB\obj\Debug\net8.0\PE_DataTypesAndVariables_JRB.AssemblyInfoInputs.cache
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_DataTypesAndVariables_JRB\obj\Debug\net8.0\PE_DataTypesAndVariables_JRB.AssemblyInfo.cs
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_DataTypesAndVariables_JRB\obj\Debug\net8.0\PE_DataTypesAndVariables_JRB.csproj.CoreCompileInputs.cache
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_DataTypesAndVariables_JRB\obj\Debug\net8.0\PE_DataTypesAndVariables_JRB.sourcelink.json
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_DataTypesAndVariables_JRB\obj\Debug\net8.0\PE_DataTypesAndVariables_JRB.dll
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_DataTypesAndVariables_JRB\obj\Debug\net8.0\refint\PE_DataTypesAndVariables_JRB.dll
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_DataTypesAndVariables_JRB\obj\Debug\net8.0\PE_DataTypesAndVariables_JRB.pdb
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_DataTypesAndVariables_JRB\obj\Debug\net8.0\PE_DataTypesAndVariables_JRB.genruntimeconfig.cache
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_DataTypesAndVariables_JRB\obj\Debug\net8.0\ref\PE_DataTypesAndVariables_JRB.dll
