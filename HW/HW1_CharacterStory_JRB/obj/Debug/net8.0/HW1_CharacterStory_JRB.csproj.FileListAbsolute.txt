@@ -1,0 +1,14 @@
+C:\Users\zombi\source\repos\HW1_CharacterStory_JRB\obj\Debug\net8.0\HW1_CharacterStory_JRB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\source\repos\HW1_CharacterStory_JRB\obj\Debug\net8.0\HW1_CharacterStory_JRB.AssemblyInfoInputs.cache
+C:\Users\zombi\source\repos\HW1_CharacterStory_JRB\obj\Debug\net8.0\HW1_CharacterStory_JRB.AssemblyInfo.cs
+C:\Users\zombi\source\repos\HW1_CharacterStory_JRB\obj\Debug\net8.0\HW1_CharacterStory_JRB.csproj.CoreCompileInputs.cache
+C:\Users\zombi\source\repos\HW1_CharacterStory_JRB\bin\Debug\net8.0\HW1_CharacterStory_JRB.exe
+C:\Users\zombi\source\repos\HW1_CharacterStory_JRB\bin\Debug\net8.0\HW1_CharacterStory_JRB.deps.json
+C:\Users\zombi\source\repos\HW1_CharacterStory_JRB\bin\Debug\net8.0\HW1_CharacterStory_JRB.runtimeconfig.json
+C:\Users\zombi\source\repos\HW1_CharacterStory_JRB\bin\Debug\net8.0\HW1_CharacterStory_JRB.dll
+C:\Users\zombi\source\repos\HW1_CharacterStory_JRB\bin\Debug\net8.0\HW1_CharacterStory_JRB.pdb
+C:\Users\zombi\source\repos\HW1_CharacterStory_JRB\obj\Debug\net8.0\HW1_CharacterStory_JRB.dll
+C:\Users\zombi\source\repos\HW1_CharacterStory_JRB\obj\Debug\net8.0\refint\HW1_CharacterStory_JRB.dll
+C:\Users\zombi\source\repos\HW1_CharacterStory_JRB\obj\Debug\net8.0\HW1_CharacterStory_JRB.pdb
+C:\Users\zombi\source\repos\HW1_CharacterStory_JRB\obj\Debug\net8.0\HW1_CharacterStory_JRB.genruntimeconfig.cache
+C:\Users\zombi\source\repos\HW1_CharacterStory_JRB\obj\Debug\net8.0\ref\HW1_CharacterStory_JRB.dll
