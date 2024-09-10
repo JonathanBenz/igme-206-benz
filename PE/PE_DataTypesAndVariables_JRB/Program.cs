@@ -1,6 +1,9 @@
 ﻿/* Author: Jonathan Benz
  * PE - Data Types & Variables
  * No Known Issues */
+using System.Runtime.InteropServices;
+using static System.Net.Mime.MediaTypeNames;
+
 namespace PE_DataTypesAndVariables_JRB
 {
     internal class Program
@@ -29,6 +32,8 @@ namespace PE_DataTypesAndVariables_JRB
             Console.WriteLine();
 
             Console.WriteLine("TOTAL: " + totalPoints);
+
+            
         }
     }
 }
