@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE_InputAndStrings_JRB", "PE_InputAndStrings_JRB.csproj", "{392070D0-4D07-4DCA-8A41-FE5A62D8F5A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{392070D0-4D07-4DCA-8A41-FE5A62D8F5A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392070D0-4D07-4DCA-8A41-FE5A62D8F5A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392070D0-4D07-4DCA-8A41-FE5A62D8F5A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392070D0-4D07-4DCA-8A41-FE5A62D8F5A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77C9CFBF-AF5D-4FA9-B290-78D5AD99ED21}
+	EndGlobalSection
+EndGlobal
