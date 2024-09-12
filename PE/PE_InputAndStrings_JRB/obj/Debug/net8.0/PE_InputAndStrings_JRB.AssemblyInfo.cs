@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PE_InputAndStrings_JRB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c13ae1390c7b6633cd1080b5c7c2576376b1c2b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf076444ad72a39b6eac50b453028b8e9e4bffa4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PE_InputAndStrings_JRB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PE_InputAndStrings_JRB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
