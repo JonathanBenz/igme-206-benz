@@ -1,0 +1,15 @@
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_IfsAndSwitches\bin\Debug\net8.0\PE_IfsAndSwitches.exe
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_IfsAndSwitches\bin\Debug\net8.0\PE_IfsAndSwitches.deps.json
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_IfsAndSwitches\bin\Debug\net8.0\PE_IfsAndSwitches.runtimeconfig.json
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_IfsAndSwitches\bin\Debug\net8.0\PE_IfsAndSwitches.dll
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_IfsAndSwitches\bin\Debug\net8.0\PE_IfsAndSwitches.pdb
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_IfsAndSwitches\obj\Debug\net8.0\PE_IfsAndSwitches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_IfsAndSwitches\obj\Debug\net8.0\PE_IfsAndSwitches.AssemblyInfoInputs.cache
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_IfsAndSwitches\obj\Debug\net8.0\PE_IfsAndSwitches.AssemblyInfo.cs
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_IfsAndSwitches\obj\Debug\net8.0\PE_IfsAndSwitches.csproj.CoreCompileInputs.cache
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_IfsAndSwitches\obj\Debug\net8.0\PE_IfsAndSwitches.sourcelink.json
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_IfsAndSwitches\obj\Debug\net8.0\PE_IfsAndSwitches.dll
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_IfsAndSwitches\obj\Debug\net8.0\refint\PE_IfsAndSwitches.dll
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_IfsAndSwitches\obj\Debug\net8.0\PE_IfsAndSwitches.pdb
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_IfsAndSwitches\obj\Debug\net8.0\PE_IfsAndSwitches.genruntimeconfig.cache
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_IfsAndSwitches\obj\Debug\net8.0\ref\PE_IfsAndSwitches.dll
