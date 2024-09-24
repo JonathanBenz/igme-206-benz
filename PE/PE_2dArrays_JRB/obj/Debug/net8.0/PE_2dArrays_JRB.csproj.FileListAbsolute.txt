@@ -1,0 +1,15 @@
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_2dArrays_JRB\bin\Debug\net8.0\PE_2dArrays_JRB.exe
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_2dArrays_JRB\bin\Debug\net8.0\PE_2dArrays_JRB.deps.json
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_2dArrays_JRB\bin\Debug\net8.0\PE_2dArrays_JRB.runtimeconfig.json
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_2dArrays_JRB\bin\Debug\net8.0\PE_2dArrays_JRB.dll
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_2dArrays_JRB\bin\Debug\net8.0\PE_2dArrays_JRB.pdb
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_2dArrays_JRB\obj\Debug\net8.0\PE_2dArrays_JRB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_2dArrays_JRB\obj\Debug\net8.0\PE_2dArrays_JRB.AssemblyInfoInputs.cache
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_2dArrays_JRB\obj\Debug\net8.0\PE_2dArrays_JRB.AssemblyInfo.cs
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_2dArrays_JRB\obj\Debug\net8.0\PE_2dArrays_JRB.csproj.CoreCompileInputs.cache
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_2dArrays_JRB\obj\Debug\net8.0\PE_2dArrays_JRB.sourcelink.json
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_2dArrays_JRB\obj\Debug\net8.0\PE_2dArrays_JRB.dll
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_2dArrays_JRB\obj\Debug\net8.0\refint\PE_2dArrays_JRB.dll
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_2dArrays_JRB\obj\Debug\net8.0\PE_2dArrays_JRB.pdb
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_2dArrays_JRB\obj\Debug\net8.0\PE_2dArrays_JRB.genruntimeconfig.cache
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_2dArrays_JRB\obj\Debug\net8.0\ref\PE_2dArrays_JRB.dll
