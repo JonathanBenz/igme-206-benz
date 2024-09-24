@@ -1,0 +1,15 @@
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_ExceptionHandlingTryParse_JRB\bin\Debug\net8.0\PE_ExceptionHandlingTryParse_JRB.exe
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_ExceptionHandlingTryParse_JRB\bin\Debug\net8.0\PE_ExceptionHandlingTryParse_JRB.deps.json
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_ExceptionHandlingTryParse_JRB\bin\Debug\net8.0\PE_ExceptionHandlingTryParse_JRB.runtimeconfig.json
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_ExceptionHandlingTryParse_JRB\bin\Debug\net8.0\PE_ExceptionHandlingTryParse_JRB.dll
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_ExceptionHandlingTryParse_JRB\bin\Debug\net8.0\PE_ExceptionHandlingTryParse_JRB.pdb
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_ExceptionHandlingTryParse_JRB\obj\Debug\net8.0\PE_ExceptionHandlingTryParse_JRB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_ExceptionHandlingTryParse_JRB\obj\Debug\net8.0\PE_ExceptionHandlingTryParse_JRB.AssemblyInfoInputs.cache
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_ExceptionHandlingTryParse_JRB\obj\Debug\net8.0\PE_ExceptionHandlingTryParse_JRB.AssemblyInfo.cs
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_ExceptionHandlingTryParse_JRB\obj\Debug\net8.0\PE_ExceptionHandlingTryParse_JRB.csproj.CoreCompileInputs.cache
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_ExceptionHandlingTryParse_JRB\obj\Debug\net8.0\PE_ExceptionHandlingTryParse_JRB.sourcelink.json
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_ExceptionHandlingTryParse_JRB\obj\Debug\net8.0\PE_ExceptionHandlingTryParse_JRB.dll
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_ExceptionHandlingTryParse_JRB\obj\Debug\net8.0\refint\PE_ExceptionHandlingTryParse_JRB.dll
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_ExceptionHandlingTryParse_JRB\obj\Debug\net8.0\PE_ExceptionHandlingTryParse_JRB.pdb
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_ExceptionHandlingTryParse_JRB\obj\Debug\net8.0\PE_ExceptionHandlingTryParse_JRB.genruntimeconfig.cache
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_ExceptionHandlingTryParse_JRB\obj\Debug\net8.0\ref\PE_ExceptionHandlingTryParse_JRB.dll
