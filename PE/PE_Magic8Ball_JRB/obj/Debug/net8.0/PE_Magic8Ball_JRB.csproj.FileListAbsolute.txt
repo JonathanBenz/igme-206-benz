@@ -1,0 +1,15 @@
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_Magic8Ball_JRB\bin\Debug\net8.0\PE_Magic8Ball_JRB.exe
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_Magic8Ball_JRB\bin\Debug\net8.0\PE_Magic8Ball_JRB.deps.json
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_Magic8Ball_JRB\bin\Debug\net8.0\PE_Magic8Ball_JRB.runtimeconfig.json
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_Magic8Ball_JRB\bin\Debug\net8.0\PE_Magic8Ball_JRB.dll
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_Magic8Ball_JRB\bin\Debug\net8.0\PE_Magic8Ball_JRB.pdb
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_Magic8Ball_JRB\obj\Debug\net8.0\PE_Magic8Ball_JRB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_Magic8Ball_JRB\obj\Debug\net8.0\PE_Magic8Ball_JRB.AssemblyInfoInputs.cache
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_Magic8Ball_JRB\obj\Debug\net8.0\PE_Magic8Ball_JRB.AssemblyInfo.cs
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_Magic8Ball_JRB\obj\Debug\net8.0\PE_Magic8Ball_JRB.csproj.CoreCompileInputs.cache
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_Magic8Ball_JRB\obj\Debug\net8.0\PE_Magic8Ball_JRB.sourcelink.json
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_Magic8Ball_JRB\obj\Debug\net8.0\PE_Magic8Ball_JRB.dll
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_Magic8Ball_JRB\obj\Debug\net8.0\refint\PE_Magic8Ball_JRB.dll
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_Magic8Ball_JRB\obj\Debug\net8.0\PE_Magic8Ball_JRB.pdb
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_Magic8Ball_JRB\obj\Debug\net8.0\PE_Magic8Ball_JRB.genruntimeconfig.cache
+C:\Users\zombi\Documents\GitHub\igme-206-benz\PE\PE_Magic8Ball_JRB\obj\Debug\net8.0\ref\PE_Magic8Ball_JRB.dll
