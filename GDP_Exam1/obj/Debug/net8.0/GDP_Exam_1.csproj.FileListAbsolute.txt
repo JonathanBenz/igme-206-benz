@@ -1,0 +1,15 @@
+Z:\IGMProfile\Documents\GitHub\igme-206-benz\GDP_Exam1\bin\Debug\net8.0\GDP_Exam_1.exe
+Z:\IGMProfile\Documents\GitHub\igme-206-benz\GDP_Exam1\bin\Debug\net8.0\GDP_Exam_1.deps.json
+Z:\IGMProfile\Documents\GitHub\igme-206-benz\GDP_Exam1\bin\Debug\net8.0\GDP_Exam_1.runtimeconfig.json
+Z:\IGMProfile\Documents\GitHub\igme-206-benz\GDP_Exam1\bin\Debug\net8.0\GDP_Exam_1.dll
+Z:\IGMProfile\Documents\GitHub\igme-206-benz\GDP_Exam1\bin\Debug\net8.0\GDP_Exam_1.pdb
+Z:\IGMProfile\Documents\GitHub\igme-206-benz\GDP_Exam1\obj\Debug\net8.0\GDP_Exam_1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IGMProfile\Documents\GitHub\igme-206-benz\GDP_Exam1\obj\Debug\net8.0\GDP_Exam_1.AssemblyInfoInputs.cache
+Z:\IGMProfile\Documents\GitHub\igme-206-benz\GDP_Exam1\obj\Debug\net8.0\GDP_Exam_1.AssemblyInfo.cs
+Z:\IGMProfile\Documents\GitHub\igme-206-benz\GDP_Exam1\obj\Debug\net8.0\GDP_Exam_1.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Documents\GitHub\igme-206-benz\GDP_Exam1\obj\Debug\net8.0\GDP_Exam_1.sourcelink.json
+Z:\IGMProfile\Documents\GitHub\igme-206-benz\GDP_Exam1\obj\Debug\net8.0\GDP_Exam_1.dll
+Z:\IGMProfile\Documents\GitHub\igme-206-benz\GDP_Exam1\obj\Debug\net8.0\refint\GDP_Exam_1.dll
+Z:\IGMProfile\Documents\GitHub\igme-206-benz\GDP_Exam1\obj\Debug\net8.0\GDP_Exam_1.pdb
+Z:\IGMProfile\Documents\GitHub\igme-206-benz\GDP_Exam1\obj\Debug\net8.0\GDP_Exam_1.genruntimeconfig.cache
+Z:\IGMProfile\Documents\GitHub\igme-206-benz\GDP_Exam1\obj\Debug\net8.0\ref\GDP_Exam_1.dll
