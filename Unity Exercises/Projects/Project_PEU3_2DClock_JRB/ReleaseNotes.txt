@@ -1,0 +1,15 @@
+Game Project: PE_U02_Creature_World
+Creator: Jonathan Benz
+Version: 2022.3.38f1
+Date: 10/24/2024
+
+
+New features
+CreatureSpawner.cs - Spawns three separate snowmen
+SimplePlayerController.cs - Allows the player to move and take control of a snowman player
+﻿
+Fixes
+﻿N/A. 
+
+Bugs
+No known issues.
