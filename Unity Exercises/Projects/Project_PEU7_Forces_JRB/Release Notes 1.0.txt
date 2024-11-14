@@ -1,0 +1,14 @@
+Game Project: PE_U07_Forces
+Creator: Jonathan Benz
+Version: 2022.3.38f1
+Date: 11/12/2024
+
+
+New features
+PhysicsObject.cs - Handles all physics calculations on the attached GameObject every frame. 
+MouseTracker.cs - Tracks the position of the mouse cursor every frame.
+Fixes
+﻿N/A. 
+
+Bugs
+No known issues.
