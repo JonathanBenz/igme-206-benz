@@ -1,0 +1,15 @@
+Game Project: PE_U08_SeekingFleeing
+Creator: Jonathan Benz
+Version: 2022.3.38f1
+Date: 11/20/2024
+
+
+New features
+Agent.cs - Base class for handling autonomous behaviors. 
+Seeker.cs - Handles seeking behavior logic. Inherits from Agent.cs. 
+Fleer.cs - Handles fleeing behavior logic. Inherits from Agent.cs. 
+Fixes
+﻿N/A. 
+
+Bugs
+No known issues.
