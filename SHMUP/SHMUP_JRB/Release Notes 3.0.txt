@@ -1,0 +1,16 @@
+Game Project: SHMUP
+Creator: Jonathan Benz
+Version: 2022.3.38f1
+Date: 12/03/2024
+
+New features
+- Player can move and shoot projectiles
+- Enemies can move
+- Collision detection implementation
+- Player and enemy respawn if collision is detected
+﻿
+Fixes
+﻿N/A. 
+
+Bugs
+No known issues.

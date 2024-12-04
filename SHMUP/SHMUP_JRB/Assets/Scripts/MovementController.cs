@@ -15,6 +15,9 @@ public class MovementController : MonoBehaviour
     InputController input;
     SpriteInfo spriteInfo;
 
+    public Vector3 Position { get { return position; } set { position = value; } }
+    public Vector3 Velocity { get { return velocity; } set { velocity = value; } }
+
     private void Awake()
     {
         input = GetComponent<InputController>();
@@ -49,15 +52,15 @@ public class MovementController : MonoBehaviour
         {
             position = new Vector3((camWidth / 2f) - spriteInfo.halfOfX, position.y);
         }
-        else if (transform.position.x <= (-camWidth / 2f) + spriteInfo.halfOfX)
+        if (transform.position.x <= (-camWidth / 2f) + spriteInfo.halfOfX)
         {
             position = new Vector3((-camWidth / 2f) + spriteInfo.halfOfX, position.y);
         }
-        else if (transform.position.y >= (camHeight / 2f) - spriteInfo.halfOfY)
+        if (transform.position.y >= (camHeight / 2f) - spriteInfo.halfOfY)
         {
             position = new Vector3(position.x, (camHeight / 2f) - spriteInfo.halfOfY);
         }
-        else if (transform.position.y <= (-camHeight / 2f) + spriteInfo.halfOfY)
+        if (transform.position.y <= (-camHeight / 2f) + spriteInfo.halfOfY)
         {
             position = new Vector3(position.x, (-camHeight / 2f) + spriteInfo.halfOfY);
         }

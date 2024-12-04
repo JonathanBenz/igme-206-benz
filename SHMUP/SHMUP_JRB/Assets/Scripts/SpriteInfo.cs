@@ -15,12 +15,22 @@ public class SpriteInfo : MonoBehaviour
 
     SpriteRenderer spriteRenderer;
 
+    private void OnEnable()
+    {
+        GetBounds();
+    }
     private void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
+        GetBounds();
     }
 
     void Update()
+    {
+        GetBounds();
+    }
+
+    void GetBounds()
     {
         minX = spriteRenderer.bounds.min.x;
         minY = spriteRenderer.bounds.min.y;

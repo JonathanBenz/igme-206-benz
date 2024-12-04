@@ -5,8 +5,10 @@ using UnityEngine.InputSystem;
 
 public class CollisionManager : MonoBehaviour
 {
-    [SerializeField] SpriteInfo[] collidableObjects;
+    [SerializeField] SpriteInfo[] enemies;
     [SerializeField] SpriteInfo player;
+    public List<SpriteInfo> projectiles;
+
     Modes currentMode = Modes.AABB;
 
     public enum Modes
@@ -15,19 +17,38 @@ public class CollisionManager : MonoBehaviour
         Circle
     }
 
+    private void Start()
+    {
+        projectiles = new List<SpriteInfo>();
+    }
     // Update is called once per frame
     void Update()
     {
         if (currentMode == Modes.AABB)
         {
-            foreach (SpriteInfo collidable in collidableObjects)
+            foreach (SpriteInfo enemy in enemies)
             {
-                AABBCollision(player, collidable);
+                if (AABBCollision(player, enemy) && enemy.GetComponent<AgentMovement>().isRepawning == false)
+                {
+                    StartCoroutine(player.GetComponent<PlayerRespawn>().Respawn());
+                }
+                foreach(SpriteInfo projectile in projectiles)
+                {
+                    if(AABBCollision(projectile, enemy) && enemy.GetComponent<AgentMovement>().isRepawning == false)
+                    {
+                        StartCoroutine(FindObjectOfType<AgentRespawn>().Respawn(enemy.GetComponent<AgentMovement>()));
+                        if(projectile != null)
+                        {
+                            Destroy(projectile.gameObject);
+                            projectiles.Remove(projectile);
+                        }
+                    }
+                }
             }
         }
         else if (currentMode == Modes.Circle)
         {
-            foreach (SpriteInfo collidable in collidableObjects)
+            foreach (SpriteInfo collidable in enemies)
             {
                 CircleCollision(player, collidable);
             }
