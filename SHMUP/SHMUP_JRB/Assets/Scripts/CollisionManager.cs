@@ -8,6 +8,9 @@ public class CollisionManager : MonoBehaviour
     [SerializeField] SpriteInfo[] enemies;
     [SerializeField] SpriteInfo player;
     public List<SpriteInfo> projectiles;
+    [SerializeField] private float invincibilityTime = 2f;
+    private float timer;
+    bool hasIFrames;
 
     Modes currentMode = Modes.AABB;
 
@@ -20,6 +23,7 @@ public class CollisionManager : MonoBehaviour
     private void Start()
     {
         projectiles = new List<SpriteInfo>();
+        FindObjectOfType<SceneChanger>().score = 0;
     }
     // Update is called once per frame
     void Update()
@@ -30,12 +34,18 @@ public class CollisionManager : MonoBehaviour
             {
                 if (AABBCollision(player, enemy) && enemy.GetComponent<AgentMovement>().isRepawning == false)
                 {
-                    StartCoroutine(player.GetComponent<PlayerRespawn>().Respawn());
+                    if(!hasIFrames)
+                    {
+                        player.GetComponent<PlayerHealth>().Health -= 1;
+                        player.GetComponent<SpriteRenderer>().color = Color.red;
+                        hasIFrames = true;
+                    }
                 }
                 foreach(SpriteInfo projectile in projectiles)
                 {
                     if(AABBCollision(projectile, enemy) && enemy.GetComponent<AgentMovement>().isRepawning == false)
                     {
+                        FindObjectOfType<SceneChanger>().score += 10;
                         StartCoroutine(FindObjectOfType<AgentRespawn>().Respawn(enemy.GetComponent<AgentMovement>()));
                         if(projectile != null)
                         {
@@ -52,6 +62,10 @@ public class CollisionManager : MonoBehaviour
             {
                 CircleCollision(player, collidable);
             }
+        }
+        if(hasIFrames)
+        {
+            RunIFramesTimers();
         }
     }
 
@@ -96,5 +110,15 @@ public class CollisionManager : MonoBehaviour
             return true;
         }
         return false;
+    }
+    void RunIFramesTimers()
+    {
+        timer += Time.deltaTime;
+        if(timer > invincibilityTime)
+        {
+            hasIFrames = false;
+            player.GetComponent<SpriteRenderer>().color = Color.white;
+            timer = 0f;
+        }
     }
 }

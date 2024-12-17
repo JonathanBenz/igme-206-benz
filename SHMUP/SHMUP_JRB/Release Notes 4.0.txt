@@ -1,0 +1,15 @@
+Game Project: SHMUP
+Creator: Jonathan Benz
+Version: 2022.3.38f1
+Date: 12/16/2024
+
+New features
+- Added a HUD which keeps track of Health and Score
+- Added scene management, when the player loses they go to a GameOver scene. 
+- Added the Watermelon enemy variant. 
+﻿
+Fixes
+﻿N/A. 
+
+Bugs
+No known issues.

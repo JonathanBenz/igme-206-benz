@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 2106959349528838414}
   - component: {fileID: 574195479675049073}
   - component: {fileID: 8047336135080212693}
+  - component: {fileID: 6787214416959260576}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -253,7 +254,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   projectilePrefab: {fileID: 5267711256089532923, guid: 544c166f41f3f6d46996582719b0509e, type: 3}
-  shootCooldown: 0.25
+  shootCooldown: 0.33
   xOffset: 6
 --- !u!114 &8047336135080212693
 MonoBehaviour:
@@ -268,3 +269,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   respawnTime: 2
+--- !u!114 &6787214416959260576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7325217351249588715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edf4f96a21ede4243be41b681fab5fc1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 4
+  healthBar: {fileID: 0}
